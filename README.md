@@ -20,7 +20,7 @@ Level up from white belt to black belt with practice quizzes, flashcards, and on
 ## 🛠 Tech Stack
 
 - Front End:
-  - [Next.js 14 (App Router)](https://nextjs.org/) + TypeScript
+  - [Next.js 14 (App Router)](https://nextjs.org/) + React + TypeScript
   - [Tailwind CSS](https://tailwindcss.com/)
 - Back End:
   - [Supabase](https://supabase.com/) (Auth + Postgres for XP/Belts)
